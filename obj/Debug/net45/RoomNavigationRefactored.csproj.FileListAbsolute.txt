@@ -1,0 +1,10 @@
+d:\Development\KingsIsleProgrammingTest\Refactored\RoomNavigationRefactored\bin\Debug\net45\RoomNavigationRefactored.exe.config
+d:\Development\KingsIsleProgrammingTest\Refactored\RoomNavigationRefactored\bin\Debug\net45\RoomNavigationRefactored.exe
+d:\Development\KingsIsleProgrammingTest\Refactored\RoomNavigationRefactored\bin\Debug\net45\RoomNavigationRefactored.pdb
+d:\Development\KingsIsleProgrammingTest\Refactored\RoomNavigationRefactored\obj\Debug\net45\RoomNavigationRefactored.csproj.AssemblyReference.cache
+d:\Development\KingsIsleProgrammingTest\Refactored\RoomNavigationRefactored\obj\Debug\net45\RoomNavigationRefactored.GeneratedMSBuildEditorConfig.editorconfig
+d:\Development\KingsIsleProgrammingTest\Refactored\RoomNavigationRefactored\obj\Debug\net45\RoomNavigationRefactored.AssemblyInfoInputs.cache
+d:\Development\KingsIsleProgrammingTest\Refactored\RoomNavigationRefactored\obj\Debug\net45\RoomNavigationRefactored.AssemblyInfo.cs
+d:\Development\KingsIsleProgrammingTest\Refactored\RoomNavigationRefactored\obj\Debug\net45\RoomNavigationRefactored.csproj.CoreCompileInputs.cache
+d:\Development\KingsIsleProgrammingTest\Refactored\RoomNavigationRefactored\obj\Debug\net45\RoomNavigationRefactored.exe
+d:\Development\KingsIsleProgrammingTest\Refactored\RoomNavigationRefactored\obj\Debug\net45\RoomNavigationRefactored.pdb

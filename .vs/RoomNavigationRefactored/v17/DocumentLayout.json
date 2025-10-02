@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Development\\Custom\\KingsIsleProgrammingTest\\Refactored\\RoomNavigationRefactored\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A989064C-933C-FD43-692E-7981C7C4734E}|RoomNavigationRefactored.csproj|d:\\development\\custom\\kingsisleprogrammingtest\\refactored\\roomnavigationrefactored\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A989064C-933C-FD43-692E-7981C7C4734E}|RoomNavigationRefactored.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A989064C-933C-FD43-692E-7981C7C4734E}|RoomNavigationRefactored.csproj|d:\\development\\custom\\kingsisleprogrammingtest\\refactored\\roomnavigationrefactored\\graph\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A989064C-933C-FD43-692E-7981C7C4734E}|RoomNavigationRefactored.csproj|solutionrelative:graph\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A989064C-933C-FD43-692E-7981C7C4734E}|RoomNavigationRefactored.csproj|d:\\development\\custom\\kingsisleprogrammingtest\\refactored\\roomnavigationrefactored\\structure\\models\\basicroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A989064C-933C-FD43-692E-7981C7C4734E}|RoomNavigationRefactored.csproj|solutionrelative:structure\\models\\basicroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A989064C-933C-FD43-692E-7981C7C4734E}|RoomNavigationRefactored.csproj|d:\\development\\custom\\kingsisleprogrammingtest\\refactored\\roomnavigationrefactored\\graph\\extensions\\nodeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A989064C-933C-FD43-692E-7981C7C4734E}|RoomNavigationRefactored.csproj|solutionrelative:graph\\extensions\\nodeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A989064C-933C-FD43-692E-7981C7C4734E}|RoomNavigationRefactored.csproj|d:\\development\\custom\\kingsisleprogrammingtest\\refactored\\roomnavigationrefactored\\graph\\nodegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A989064C-933C-FD43-692E-7981C7C4734E}|RoomNavigationRefactored.csproj|solutionrelative:graph\\nodegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A989064C-933C-FD43-692E-7981C7C4734E}|RoomNavigationRefactored.csproj|d:\\development\\custom\\kingsisleprogrammingtest\\refactored\\roomnavigationrefactored\\structure\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A989064C-933C-FD43-692E-7981C7C4734E}|RoomNavigationRefactored.csproj|solutionrelative:structure\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NodeExtension.cs",
+              "DocumentMoniker": "D:\\Development\\Custom\\KingsIsleProgrammingTest\\Refactored\\RoomNavigationRefactored\\Graph\\Extensions\\NodeExtension.cs",
+              "RelativeDocumentMoniker": "Graph\\Extensions\\NodeExtension.cs",
+              "ToolTip": "D:\\Development\\Custom\\KingsIsleProgrammingTest\\Refactored\\RoomNavigationRefactored\\Graph\\Extensions\\NodeExtension.cs",
+              "RelativeToolTip": "Graph\\Extensions\\NodeExtension.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:28:52.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NodeGraph.cs",
+              "DocumentMoniker": "D:\\Development\\Custom\\KingsIsleProgrammingTest\\Refactored\\RoomNavigationRefactored\\Graph\\NodeGraph.cs",
+              "RelativeDocumentMoniker": "Graph\\NodeGraph.cs",
+              "ToolTip": "D:\\Development\\Custom\\KingsIsleProgrammingTest\\Refactored\\RoomNavigationRefactored\\Graph\\NodeGraph.cs",
+              "RelativeToolTip": "Graph\\NodeGraph.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T01:43:52.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasicRoom.cs",
+              "DocumentMoniker": "D:\\Development\\Custom\\KingsIsleProgrammingTest\\Refactored\\RoomNavigationRefactored\\Structure\\Models\\BasicRoom.cs",
+              "RelativeDocumentMoniker": "Structure\\Models\\BasicRoom.cs",
+              "ToolTip": "D:\\Development\\Custom\\KingsIsleProgrammingTest\\Refactored\\RoomNavigationRefactored\\Structure\\Models\\BasicRoom.cs",
+              "RelativeToolTip": "Structure\\Models\\BasicRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T21:21:20.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Structure.cs",
+              "DocumentMoniker": "D:\\Development\\Custom\\KingsIsleProgrammingTest\\Refactored\\RoomNavigationRefactored\\Structure\\Structure.cs",
+              "RelativeDocumentMoniker": "Structure\\Structure.cs",
+              "ToolTip": "D:\\Development\\Custom\\KingsIsleProgrammingTest\\Refactored\\RoomNavigationRefactored\\Structure\\Structure.cs",
+              "RelativeToolTip": "Structure\\Structure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T21:20:25.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\Development\\Custom\\KingsIsleProgrammingTest\\Refactored\\RoomNavigationRefactored\\Graph\\Node.cs",
+              "RelativeDocumentMoniker": "Graph\\Node.cs",
+              "ToolTip": "D:\\Development\\Custom\\KingsIsleProgrammingTest\\Refactored\\RoomNavigationRefactored\\Graph\\Node.cs",
+              "RelativeToolTip": "Graph\\Node.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAIAwwEwBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T21:18:37.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Development\\Custom\\KingsIsleProgrammingTest\\Refactored\\RoomNavigationRefactored\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Development\\Custom\\KingsIsleProgrammingTest\\Refactored\\RoomNavigationRefactored\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T03:59:20.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
