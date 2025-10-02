@@ -1,0 +1,27 @@
+
+# Ignore build outputs
+obj/
+bin/Debug/
+
+# Ignore IDE and editor-specific files
+.vscode/
+.vsconfig/
+.vs/
+
+# Ignore lock files
+package-lock.json
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore compiled binary files
+*.exe
+*.dll
+*.so
+*.dylib
+*.pyc
+*.pyo
+*.o
+*.a
+*.out
