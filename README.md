@@ -1,4 +1,4 @@
-# Room Navigation Refactored
+# Room Navigation
 
 A C# console application that implements a graph-based room navigation system with pathfinding capabilities. This project demonstrates efficient graph traversal and path-finding algorithms in a spatial context.
 
